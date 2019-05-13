@@ -6,10 +6,7 @@ import org.junit.jupiter.api.Test;
 
 class MultiplicacionTest {
 
-	@Test
-	void test() {
-		fail("Not yet implemented");
-	}
+
 	public void MultiplicacionEnteros() {
 		System.out.println("Multiplicacion de enteros");
 		Multiplicacion m = new Multiplicacion(2,3);
