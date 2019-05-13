@@ -6,10 +6,7 @@ import org.junit.jupiter.api.Test;
 
 class RestaTest {
 
-	@Test
-	void test() {
-		fail("Not yet implemented");
-	}
+
 	public void sumaEnteros() {
 		System.out.println("Resta de enteros");
 		Resta r = new Resta(2,3);

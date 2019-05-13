@@ -6,10 +6,7 @@ import org.junit.jupiter.api.Test;
 
 class SumaTest {
 
-	@Test
-	void test() {
-		fail("Not yet implemented");
-	}
+
 	public void sumaEnteros() {
 		System.out.println("Suma de enteros");
 		Suma sum = new Suma(2,3);

@@ -6,10 +6,7 @@ import org.junit.jupiter.api.Test;
 
 class DivisionTest {
 
-	@Test
-	void test() {
-		fail("Not yet implemented");
-	}
+
 	public void DivisionEnteros() {
 		System.out.println("division de enteros");
 		Multiplicacion m = new Multiplicacion(6,2);
